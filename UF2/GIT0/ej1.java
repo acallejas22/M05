@@ -40,8 +40,8 @@ public class Input {
 
     
    
-    System.out.println("El area del circulo es " + area); 
-    System.out.println("El perimetro del circulo es " + perimetro);
+    System.out.println("El area del circulo es " + area + "m"); 
+    System.out.println("El perimetro del circulo es " + perimetro + "m");
     
   }
 
